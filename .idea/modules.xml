@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../rifatul_islam/.idea/Draco HTML Template.iml" filepath="$PROJECT_DIR$/../rifatul_islam/.idea/Draco HTML Template.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Draco HTML Template.iml" filepath="$PROJECT_DIR$/.idea/Draco HTML Template.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/rifatul_islam.iml" filepath="$PROJECT_DIR$/.idea/rifatul_islam.iml" />
     </modules>
   </component>
 </project>
